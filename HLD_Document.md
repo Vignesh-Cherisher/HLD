@@ -1,7 +1,7 @@
 
 # SYSTEM ARCHITECTURE: #
 
-![System Architecture diagram](./Sequence_diagram.png)
+![System Architecture diagram](./System_Architecture.png)
 
 The image is a **system architecture diagram** that illustrates how a distributed file sharing system works. A file sharing system is a way of transferring files between different devices over a network, such as the internet.
 
